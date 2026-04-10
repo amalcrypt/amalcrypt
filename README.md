@@ -28,18 +28,8 @@
 
 ## 📌 Projects
 - 🔹 Sentiment Analysis (DistilBERT + ML models)
-- 🔹 AI Chat Applications
-- 🔹 Full Stack Web Apps
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=amalcrypt&show_icons=true)
-
----
-
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=amalcrypt)
+- 🔹 Decentralized certficate verification using Blockchain
+- 🔹 Zesty-canten managment system -Full Stack Web
 
 ---
 
