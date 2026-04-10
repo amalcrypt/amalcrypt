@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**amalcrypt/amalcrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Amal Binu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer | AI/ML Enthusiast  
+🎓 MCA Final Year Student  
+🌍 From Kerala, India  
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **AI & Web Apps**
+- 🌱 Learning **Machine Learning, FastAPI, Next.js**
+- 💡 Interested in **AI Agents & Backend Systems**
+- 🌐 Portfolio: https://amaltech.in
+- 📫 Email: amala2627@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript
+- ⚙️ Backend: Node.js, Express, FastAPI
+- 🎨 Frontend: React, Next.js
+- 🧠 AI/ML: Scikit-learn, Transformers
+- 🗄️ Database: MongoDB, MySQL
+
+---
+
+## 📌 Projects
+- 🔹 Sentiment Analysis (DistilBERT + ML models)
+- 🔹 AI Chat Applications
+- 🔹 Full Stack Web Apps
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=amalcrypt&show_icons=true)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=amalcrypt)
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/cryptadiar/
+- Portfolio: https://amaltech.in
