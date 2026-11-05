@@ -32,7 +32,7 @@ Turn a goal into a clear objective, break it into steps, call tools and other ag
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **PetroChat** | AI-powered conversational assistant for the petroleum industry | [Live](https://petrochat.streamlit.app/) · [Code](https://github.com/amalcrypt/petrochat) |
+| **DocChat** | RAG assistant that answers only from the documents you upload, with sources | [Live](https://amalbinu-docchat.hf.space/) · [Code](https://huggingface.co/spaces/amalbinu/docchat/tree/main) |
 | **Movie Sentiment Analysis** | Review sentiment with classical ML and DistilBERT | [Live](https://moviesentimentanalaysis.vercel.app/) · [Code](https://github.com/amalcrypt/moviesentimentanalaysis) |
 | **EduChain** | Decentralized certificate verification on the blockchain | [Live](https://liveeduchain.vercel.app/) · [Code](https://github.com/amalcrypt/liveeduchain) |
 | **Zesty Plate** | Canteen management system with a staff module (full stack) | [Code](https://github.com/amalcrypt/zesty-plate-pro) |
